@@ -18,3 +18,13 @@ canvas{
     box-shadow: 5px 5px 5px red;
     margin-top: 30px;
 }
+.note{
+    color: black;
+}
+
+#camera{
+    width: 600px;
+    height: 600px;
+    border-color: white;
+    border-style: solid;
+}
